@@ -26,5 +26,5 @@ En el workflow no se detecta el index.html | Para MkDocs, todo el contenido proc
 
 
 ## Repositorio remoto
-Enlace público: https://github.com/TU_USUARIO/git-work
+Enlace público: https://github.com/Oscar-PF/git-work
 Pull request principal: https://github.com/TU_USUARIO/git-work/pull/1

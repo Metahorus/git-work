@@ -2,3 +2,8 @@
 .env
 *.log
 .DS_Store
+.venv
+src
+.python-version
+pyproject.toml
+uv.lock
