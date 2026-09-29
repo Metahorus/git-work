@@ -1,4 +1,5 @@
 # .gitignore
+site/
 .env
 *.log
 .DS_Store
@@ -7,3 +8,6 @@ src
 .python-version
 pyproject.toml
 uv.lock
+zensical.toml
+docs.yml
+markdown.md

@@ -23,6 +23,7 @@ Comandos ejecutados y su salida (git log, git remote -v, git tag...).
 Tabla problema | causa | solución (incluye el conflicto de fusión).
 ---------------|-------|------------------------------------------
 En el workflow no se detecta el index.html | Para MkDocs, todo el contenido procesable está dentro de la carpeta docs/ | Se usa una ruta absoluta para ver si encuentra el archivo.
+Error al en commit de user2 personalizado, se copia el commit de la documentacion y el commit se realiza sin problema | Se estaba añadiendo un espacio luego de la barra '\' que separaba los mensajes, lo que hacía que se no se entendieran como dos mensajes. | Se hizo otro commit a posteriori prestando atención a no dejar espacio luego de la barra. 
 
 
 ## Repositorio remoto
